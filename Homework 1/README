@@ -1,15 +1,15 @@
-### Personal Info
+<h3>Personal Info</h3>
 <ul>
-<li>a. Spencer Au</li>
-<li>b. 002385256</li>
-<li>c. spau@chapman.edu</li>
-<li>d. CPSC393 Section 1</li>
-<li>e. Homework 1</li>
+  <li>Spencer Au</li>
+  <li>002385256</li>
+  <li>spau@chapman.edu</li>
+  <li>CPSC393 Section 1</li>
+  <li>Homework 1</li>
 </ul>
 
-### A	description	of	any	known	compile	or	runtime	errors,	code	limitations,	or	deviations from	the	assignment	specification (if	applicable)
+<h3>References</h3>
+<ul>
+  <li>Classwork Code from CPSC 392 and CPSC 393</li>
+  <li>ChatGPT for Simplifying Explanations and Examples for Non-Technical People</li>
+</ul>
 
-### A	list of	all	references	used	to	complete	the	assignment,	including	peers	(if	applicable)
-
-<li>Classwork Code from CPSC 392 and CPSC 393</li>
-<li>ChatGPT for Simplifying Explanations and Examples for Non Technical People</li>
