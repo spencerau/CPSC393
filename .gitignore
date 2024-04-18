@@ -2,3 +2,7 @@
 HW3/.DS_Store
 .DS_Store
 HW3/archive
+HW4/models
+HW4/finetune
+#HW4/assets/Brave_New_World_Aldous_Huxley_djvu.txt
+*.zip
