@@ -1,7 +1,7 @@
 ### Personal Info
 <ul>
 <li>a. Ethan Tarnarider</li>
-<li>b. placeholder_id</li>
+<li>b. 2365982</li>
 <li>c. tarnarider@chapman.edu</li>
 
 <li>a. Spencer Au</li>
@@ -9,7 +9,7 @@
 <li>c. spau@chapman.edu</li>
 
 <li>a. Danny Boudagian</li>
-<li>b. placeholder_id</li>
+<li>b. 2369350</li>
 <li>c. boudagian@chapman.edu</li>
 
 <li>d. CPSC393 Section 1</li>
